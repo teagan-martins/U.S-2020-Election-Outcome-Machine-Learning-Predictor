@@ -1,5 +1,7 @@
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud, STOPWORDS
 from textblob import TextBlob
 import plotly.graph_objects as go
 
